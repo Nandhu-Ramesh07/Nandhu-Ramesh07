@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 👋 Hi, I'm **Nandhu Ramesh**
 AI Engineer | LLM Engineering • AI Agents • RAG Systems • Generative AI
